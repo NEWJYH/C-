@@ -11,12 +11,50 @@
     <Compile Remove="01_출력\01_출력.cs" />
     <Compile Remove="01_출력\02_출력.cs" />
     <Compile Remove="02_변수\01_기본데이터형식\01_기본데이터형식.cs" />
+    <Compile Remove="02_변수\01_기본데이터형식\02_기본데이터형식.cs" />
+    <Compile Remove="02_변수\01_기본데이터형식\03_기본데이터형식.cs" />
+    <Compile Remove="02_변수\01_기본데이터형식\04_기본데이터형식.cs" />
+    <Compile Remove="02_변수\01_기본데이터형식\05_기본데이터형식.cs" />
+    <Compile Remove="02_변수\01_기본데이터형식\06_기본데이터형식.cs" />
+    <Compile Remove="02_변수\02_형식변환\01_입력.cs" />
+    <Compile Remove="02_변수\02_형식변환\02_형식변환.cs" />
+    <Compile Remove="02_변수\03_상수와열거형\01_상수.cs" />
+    <Compile Remove="02_변수\03_상수와열거형\02_열거형.cs" />
+    <Compile Remove="02_변수\04_Nullable\01_Nullable.cs" />
+    <Compile Remove="02_변수\05_약한형식검사\01_약한형식검사.cs" />
+    <Compile Remove="03_연산자\01_산술연산자\01_산술연산자.cs" />
+    <Compile Remove="03_연산자\01_산술연산자\02_산술연산자.cs" />
+    <Compile Remove="03_연산자\02_단항연산자\01_단항연산자.cs" />
+    <Compile Remove="03_연산자\03_관계연산자\01_관계연산자.cs" />
+    <Compile Remove="03_연산자\04_논리연산자\01_논리연산자.cs" />
+    <Compile Remove="03_연산자\05_조건연산자\01_조건연산자.cs" />
+    <Compile Remove="03_연산자\06_할당연산자\01_할당연산자.cs" />
+    <Compile Remove="03_연산자\06_할당연산자\02_Null병합연산자.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="01_출력\01_출력.cs" />
     <None Include="01_출력\02_출력.cs" />
     <None Include="02_변수\01_기본데이터형식\01_기본데이터형식.cs" />
+    <None Include="02_변수\01_기본데이터형식\02_기본데이터형식.cs" />
+    <None Include="02_변수\01_기본데이터형식\03_기본데이터형식.cs" />
+    <None Include="02_변수\01_기본데이터형식\04_기본데이터형식.cs" />
+    <None Include="02_변수\01_기본데이터형식\05_기본데이터형식.cs" />
+    <None Include="02_변수\01_기본데이터형식\06_기본데이터형식.cs" />
+    <None Include="02_변수\02_형식변환\01_입력.cs" />
+    <None Include="02_변수\02_형식변환\02_형식변환.cs" />
+    <None Include="02_변수\03_상수와열거형\01_상수.cs" />
+    <None Include="02_변수\03_상수와열거형\02_열거형.cs" />
+    <None Include="02_변수\04_Nullable\01_Nullable.cs" />
+    <None Include="02_변수\05_약한형식검사\01_약한형식검사.cs" />
+    <None Include="03_연산자\01_산술연산자\01_산술연산자.cs" />
+    <None Include="03_연산자\01_산술연산자\02_산술연산자.cs" />
+    <None Include="03_연산자\02_단항연산자\01_단항연산자.cs" />
+    <None Include="03_연산자\03_관계연산자\01_관계연산자.cs" />
+    <None Include="03_연산자\04_논리연산자\01_논리연산자.cs" />
+    <None Include="03_연산자\05_조건연산자\01_조건연산자.cs" />
+    <None Include="03_연산자\06_할당연산자\01_할당연산자.cs" />
+    <None Include="03_연산자\06_할당연산자\02_Null병합연산자.cs" />
   </ItemGroup>
 
 </Project>
