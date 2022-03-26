@@ -30,6 +30,24 @@
     <Compile Remove="03_연산자\05_조건연산자\01_조건연산자.cs" />
     <Compile Remove="03_연산자\06_할당연산자\01_할당연산자.cs" />
     <Compile Remove="03_연산자\06_할당연산자\02_Null병합연산자.cs" />
+    <Compile Remove="04_분기문\01_IF문\01_IF문.cs" />
+    <Compile Remove="04_분기문\01_IF문\02_IF문.cs" />
+    <Compile Remove="04_분기문\01_IF문\03_IF문.cs" />
+    <Compile Remove="04_분기문\01_IF문\04_IF문.cs" />
+    <Compile Remove="04_분기문\02_Switch문\01_Switch문.cs" />
+    <Compile Remove="04_분기문\02_Switch문\02_Switch문.cs" />
+    <Compile Remove="04_분기문\02_Switch문\03_Switch문.cs" />
+    <Compile Remove="05_반복문\01_While문\01_While문.cs" />
+    <Compile Remove="05_반복문\01_While문\02_While문.cs" />
+    <Compile Remove="05_반복문\01_While문\03_While문.cs" />
+    <Compile Remove="05_반복문\01_While문\04_While문.cs" />
+    <Compile Remove="05_반복문\02_DoWhile문\01_DoWhile문.cs" />
+    <Compile Remove="05_반복문\03_For문\01_For문.cs" />
+    <Compile Remove="05_반복문\03_For문\02_For문.cs" />
+    <Compile Remove="06_메서드\01_메서드\01_메서드.cs" />
+    <Compile Remove="06_메서드\01_메서드\02_메서드.cs" />
+    <Compile Remove="06_메서드\01_메서드\03_메서드.cs" />
+    <Compile Remove="06_메서드\01_메서드\04_메서드.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -55,6 +73,24 @@
     <None Include="03_연산자\05_조건연산자\01_조건연산자.cs" />
     <None Include="03_연산자\06_할당연산자\01_할당연산자.cs" />
     <None Include="03_연산자\06_할당연산자\02_Null병합연산자.cs" />
+    <None Include="04_분기문\01_IF문\01_IF문.cs" />
+    <None Include="04_분기문\01_IF문\02_IF문.cs" />
+    <None Include="04_분기문\01_IF문\03_IF문.cs" />
+    <None Include="04_분기문\01_IF문\04_IF문.cs" />
+    <None Include="04_분기문\02_Switch문\01_Switch문.cs" />
+    <None Include="04_분기문\02_Switch문\02_Switch문.cs" />
+    <None Include="04_분기문\02_Switch문\03_Switch문.cs" />
+    <None Include="05_반복문\01_While문\01_While문.cs" />
+    <None Include="05_반복문\01_While문\02_While문.cs" />
+    <None Include="05_반복문\01_While문\03_While문.cs" />
+    <None Include="05_반복문\01_While문\04_While문.cs" />
+    <None Include="05_반복문\02_DoWhile문\01_DoWhile문.cs" />
+    <None Include="05_반복문\03_For문\01_For문.cs" />
+    <None Include="05_반복문\03_For문\02_For문.cs" />
+    <None Include="06_메서드\01_메서드\01_메서드.cs" />
+    <None Include="06_메서드\01_메서드\02_메서드.cs" />
+    <None Include="06_메서드\01_메서드\03_메서드.cs" />
+    <None Include="06_메서드\01_메서드\04_메서드.cs" />
   </ItemGroup>
 
 </Project>
