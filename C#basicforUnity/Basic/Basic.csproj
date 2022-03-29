@@ -48,6 +48,22 @@
     <Compile Remove="06_메서드\01_메서드\02_메서드.cs" />
     <Compile Remove="06_메서드\01_메서드\03_메서드.cs" />
     <Compile Remove="06_메서드\01_메서드\04_메서드.cs" />
+    <Compile Remove="06_메서드\02_선택적매개변수\01_선택적매개변수.cs" />
+    <Compile Remove="06_메서드\03_오버로딩\01_오버로딩.cs" />
+    <Compile Remove="06_메서드\04_참조에의한매개변수전달\01_ ref.cs" />
+    <Compile Remove="06_메서드\04_참조에의한매개변수전달\02_ref.cs" />
+    <Compile Remove="06_메서드\04_참조에의한매개변수전달\03_ref.cs" />
+    <Compile Remove="06_메서드\04_참조에의한매개변수전달\04_ref.cs" />
+    <Compile Remove="06_메서드\05_로컬함수\01_로컬함수.cs" />
+    <Compile Remove="07_클래스\01_클래스\01_클래스.cs" />
+    <Compile Remove="07_클래스\01_클래스\02_클래스.cs" />
+    <Compile Remove="07_클래스\01_클래스\03_클래스.cs" />
+    <Compile Remove="07_클래스\02_생성자소멸자\01_생성자소멸자.cs" />
+    <Compile Remove="07_클래스\03_Static\01_Static.cs" />
+    <Compile Remove="07_클래스\04_객체복사\01_객체복사.cs" />
+    <Compile Remove="07_클래스\05_접근제한자\01_접근제한자.cs" />
+    <Compile Remove="07_클래스\05_접근제한자\02_접근제한자.cs" />
+    <Compile Remove="07_클래스\06_확장메서드\01_확장메서드.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -91,6 +107,22 @@
     <None Include="06_메서드\01_메서드\02_메서드.cs" />
     <None Include="06_메서드\01_메서드\03_메서드.cs" />
     <None Include="06_메서드\01_메서드\04_메서드.cs" />
+    <None Include="06_메서드\02_선택적매개변수\01_선택적매개변수.cs" />
+    <None Include="06_메서드\03_오버로딩\01_오버로딩.cs" />
+    <None Include="06_메서드\04_참조에의한매개변수전달\01_ ref.cs" />
+    <None Include="06_메서드\04_참조에의한매개변수전달\02_ref.cs" />
+    <None Include="06_메서드\04_참조에의한매개변수전달\03_ref.cs" />
+    <None Include="06_메서드\04_참조에의한매개변수전달\04_ref.cs" />
+    <None Include="06_메서드\05_로컬함수\01_로컬함수.cs" />
+    <None Include="07_클래스\01_클래스\01_클래스.cs" />
+    <None Include="07_클래스\01_클래스\02_클래스.cs" />
+    <None Include="07_클래스\01_클래스\03_클래스.cs" />
+    <None Include="07_클래스\02_생성자소멸자\01_생성자소멸자.cs" />
+    <None Include="07_클래스\03_Static\01_Static.cs" />
+    <None Include="07_클래스\04_객체복사\01_객체복사.cs" />
+    <None Include="07_클래스\05_접근제한자\01_접근제한자.cs" />
+    <None Include="07_클래스\05_접근제한자\02_접근제한자.cs" />
+    <None Include="07_클래스\06_확장메서드\01_확장메서드.cs" />
   </ItemGroup>
 
 </Project>
