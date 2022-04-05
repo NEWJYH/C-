@@ -64,6 +64,9 @@
     <Compile Remove="07_클래스\05_접근제한자\01_접근제한자.cs" />
     <Compile Remove="07_클래스\05_접근제한자\02_접근제한자.cs" />
     <Compile Remove="07_클래스\06_확장메서드\01_확장메서드.cs" />
+    <Compile Remove="08_구조체\01_구조체\01_구조체.cs" />
+    <Compile Remove="08_구조체\02_튜플\01_튜플.cs" />
+    <Compile Remove="09_난수\01_난수.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -123,6 +126,9 @@
     <None Include="07_클래스\05_접근제한자\01_접근제한자.cs" />
     <None Include="07_클래스\05_접근제한자\02_접근제한자.cs" />
     <None Include="07_클래스\06_확장메서드\01_확장메서드.cs" />
+    <None Include="08_구조체\01_구조체\01_구조체.cs" />
+    <None Include="08_구조체\02_튜플\01_튜플.cs" />
+    <None Include="09_난수\01_난수.cs" />
   </ItemGroup>
 
 </Project>
