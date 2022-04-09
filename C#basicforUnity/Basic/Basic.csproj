@@ -67,6 +67,16 @@
     <Compile Remove="08_구조체\01_구조체\01_구조체.cs" />
     <Compile Remove="08_구조체\02_튜플\01_튜플.cs" />
     <Compile Remove="09_난수\01_난수.cs" />
+    <Compile Remove="09_난수\02_난수.cs" />
+    <Compile Remove="10_배열\01_배열\01_배열.cs" />
+    <Compile Remove="10_배열\01_배열\02_배열.cs" />
+    <Compile Remove="10_배열\01_배열\03_배열.cs" />
+    <Compile Remove="10_배열\01_배열\04_배열.cs" />
+    <Compile Remove="10_배열\01_배열\05_배열.cs" />
+    <Compile Remove="10_배열\02_가변인자매개변수\01_가변인자매개변수.cs" />
+    <Compile Remove="10_배열\03_다차원배열\01_다차원배열.cs" />
+    <Compile Remove="10_배열\03_다차원배열\02_다차원배열.cs" />
+    <Compile Remove="10_배열\04_가변배열\01_가변배열.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -129,6 +139,16 @@
     <None Include="08_구조체\01_구조체\01_구조체.cs" />
     <None Include="08_구조체\02_튜플\01_튜플.cs" />
     <None Include="09_난수\01_난수.cs" />
+    <None Include="09_난수\02_난수.cs" />
+    <None Include="10_배열\01_배열\01_배열.cs" />
+    <None Include="10_배열\01_배열\02_배열.cs" />
+    <None Include="10_배열\01_배열\03_배열.cs" />
+    <None Include="10_배열\01_배열\04_배열.cs" />
+    <None Include="10_배열\01_배열\05_배열.cs" />
+    <None Include="10_배열\02_가변인자매개변수\01_가변인자매개변수.cs" />
+    <None Include="10_배열\03_다차원배열\01_다차원배열.cs" />
+    <None Include="10_배열\03_다차원배열\02_다차원배열.cs" />
+    <None Include="10_배열\04_가변배열\01_가변배열.cs" />
   </ItemGroup>
 
 </Project>
